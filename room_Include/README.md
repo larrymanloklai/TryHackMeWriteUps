@@ -2,7 +2,7 @@
 - Room:   Include
 - URL:    https://tryhackme.com/room/include
 - Skills: SSRF, file inclusion, path transversal, IDOR, password cracking, LFI to RCE.
-- Help:   If anyone can poison the SSH log and get RCE please share thanks. I could only inject base64 encoded but without php wrapper working I couldn't get the RCE.
+- Help:   If anyone can poison the SSH log and get RCE please share thanks. to poison SSH log I could only inject base64 encoded but without php wrapper working I couldn't get the RCE.
 
 # 2) Writeups to get the flags:
 - After starting the target machine. nmap was started to do port discovery
