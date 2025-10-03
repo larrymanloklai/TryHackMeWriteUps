@@ -1,4 +1,4 @@
-# Summary
+# Summary 
 - link https://tryhackme.com/room/requestsmugglingbrowserdesync
 - skills required XSS, python, javascript, HTTP browser desync
 - additional readings: https://portswigger.net/research/browser-powered-desync-attacks
