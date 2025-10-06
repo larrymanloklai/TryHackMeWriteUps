@@ -82,5 +82,5 @@ Here was the question from the machine.
 - In my case it was 8, so the full KEY was cjmV8. Yours would be different. The output was the first answer. In this case what we did was : KEY xor Cipher = FLAG
 - <img width="1708" height="492" alt="image" src="https://github.com/user-attachments/assets/f035b73f-f851-41bc-b788-c3760b39bc34" />
 
-- The last part was to key in the KEY obtained to to get the 2nd answer.
+- The last part was to enter the KEY found in the terminal to to get the 2nd answer.
 
