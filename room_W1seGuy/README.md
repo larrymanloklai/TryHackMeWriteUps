@@ -78,8 +78,8 @@ Here was the question from the machine.
 - Put these in cyberchef (FLAG xor Cipher = KEY). We had the first 4 character of the KEY : cjmV
 - <img width="1862" height="571" alt="Screenshot from 2025-10-06 16-20-54" src="https://github.com/user-attachments/assets/9491fe05-ec44-436f-b609-0489dec5eeed" />
 - Next, put the full Cipher as Input. Remember this was HEX encoded so need to use CyberCheft to decode (from HEX). Then applied XOR (used the first 4-char obtained as the KEY - in UTF8. One would be able to see something similiar.
-- The finaly part was to manually brute force the last character of the KEY withg 1-0 a-z A-Z until the output had the last character showing `}`.
-- In my case it was cjmV8. Yours would be different. The output was the first answer. In this case we did : KEY xor Cipher = FLAG
+- The final part was to manually brute force the last character of the KEY with 0-9 a-z A-Z until the output had the last character showing `}`.
+- In my case it was 8, so the full KEY was cjmV8. Yours would be different. The output was the first answer. In this case what we did was : KEY xor Cipher = FLAG
 - <img width="1708" height="492" alt="image" src="https://github.com/user-attachments/assets/f035b73f-f851-41bc-b788-c3760b39bc34" />
 
 - The last part was to key in the KEY obtained to to get the 2nd answer.
