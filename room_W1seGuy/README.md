@@ -73,7 +73,7 @@ Here was the question from the machine.
     - FLAG xor KEY = Cipher
     - FLAG xor Cipher = KEY
     - KEY xor Cipher = FLAG
-- the XOR encoded in my case was 2722202d (4 bytes).
+- the cipher, XOR encoded, in my case was 3722202d (4 bytes).
 - the FLAG started with THM{ (4 bytes).
 - Put these in cyberchef (FLAG xor Cipher = KEY). We had the first 4 character of the KEY : cjmV
 - <img width="1862" height="571" alt="Screenshot from 2025-10-06 16-20-54" src="https://github.com/user-attachments/assets/9491fe05-ec44-436f-b609-0489dec5eeed" />
