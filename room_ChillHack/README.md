@@ -60,7 +60,9 @@ user Apaar
 - <img width="1049" height="290" alt="docker group" src="https://github.com/user-attachments/assets/7491a49b-6b86-4441-a1ce-0196cac023d5" />
 - As per GTFOBins, a command was found to spawn a root shell.
 - <img width="864" height="316" alt="image" src="https://github.com/user-attachments/assets/0b9473ae-3a81-4c68-89ad-ab8b33985ce2" />
-- Then I found and natvigated to where the docker folder is
+- Then I found and natvigated to where the docker folder is, and run the command given by GTFOBins and obtained a shell.
+- <img width="864" height="316" alt="image" src="https://github.com/user-attachments/assets/015f49f6-7047-405e-8e2c-1fad01fab132" />
+
 
 
 
