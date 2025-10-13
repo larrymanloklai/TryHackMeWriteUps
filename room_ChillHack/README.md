@@ -1,4 +1,4 @@
-<img width="662" height="216" alt="stegseek" src="https://github.com/user-attachments/assets/22c3a0c1-8a70-4b60-91f9-90c24fc3f1c0" /># Summary
+# Summary
 - link: https://tryhackme.com/room/chillhack
 - Skills required: enumeration, bypass filtering for OS command injection, reverse shell, Linux privilege escalation, mySQL, data exposure via steganography.
 - Tools: nmap, ffuf, cyberchef, ssh, ssh-keygen, steghide, stegseek, zip2john, johng
